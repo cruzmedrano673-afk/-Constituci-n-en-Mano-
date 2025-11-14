@@ -1,0 +1,9 @@
+{
+  "name": "Constitución en Mano",
+  "description": "Una aplicación web para conocer y defender tus derechos constitucionales durante interacciones con la autoridad en México. Incluye un botón de emergencia con grabación, una tarjeta de derechos digital y un simulador de interacción con IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
