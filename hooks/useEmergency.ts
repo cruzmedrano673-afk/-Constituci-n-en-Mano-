@@ -1,5 +1,6 @@
 
-import { useState, useEffect, useRef, useCallback } from 'react';
+// Fix: Import React to resolve the "Cannot find namespace 'React'" error.
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { EMERGENCY_SPEECH_TEXT } from '../constants';
 
 export const useEmergency = (onStop: () => void) => {

@@ -1,0 +1,24 @@
+{
+  "short_name": "Constitución",
+  "name": "Constitución en Mano",
+  "description": "Una aplicación web para conocer y defender tus derechos constitucionales durante interacciones con la autoridad en México. Incluye un botón de emergencia con grabación, una tarjeta de derechos digital y un simulador de interacción con IA.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "‰PNG
+       "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1f2937",
+  "background_color": "#111827"
+}
